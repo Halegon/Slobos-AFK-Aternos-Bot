@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "HalegonBot",
     "password": "",
-    "type": "offline"
+    "type": "Online"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
+    "ip": "Halegon-Ohsm.aternos.me",
     "port": 27586,
     "version": "",
     "try-creative": false
@@ -29,10 +29,10 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 1200,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Halegon is the best Minecraft Player!",
         "I like to play Minecraft!"
       ]
     },
