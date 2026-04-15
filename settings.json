@@ -6,8 +6,8 @@
     "type": "Online"
   },
   "server": {
-    "ip": "halegon-Ohsm.aternos.me:27775",
-    "port": 27586,
+    "ip": "halegon-Ohsm.aternos.me",
+    "port": 27775,
     "version": "",
     "try-creative": false
   },
